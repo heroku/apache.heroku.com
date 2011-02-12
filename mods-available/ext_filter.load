@@ -1,0 +1,1 @@
+LoadModule ext_filter_module ./apache${APACHE_ARCH}/lib/modules/mod_ext_filter.so

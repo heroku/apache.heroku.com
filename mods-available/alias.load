@@ -1,0 +1,1 @@
+LoadModule alias_module ./apache${APACHE_ARCH}/lib/modules/mod_alias.so

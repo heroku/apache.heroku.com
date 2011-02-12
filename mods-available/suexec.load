@@ -1,0 +1,1 @@
+LoadModule suexec_module ./apache${APACHE_ARCH}/lib/modules/mod_suexec.so

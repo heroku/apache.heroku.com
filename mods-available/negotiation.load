@@ -1,0 +1,1 @@
+LoadModule negotiation_module ./apache${APACHE_ARCH}/lib/modules/mod_negotiation.so

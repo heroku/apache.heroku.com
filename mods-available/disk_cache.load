@@ -1,0 +1,2 @@
+# Depends: cache
+LoadModule disk_cache_module ./apache${APACHE_ARCH}/lib/modules/mod_disk_cache.so

@@ -1,0 +1,1 @@
+LoadModule authn_default_module ./apache${APACHE_ARCH}/lib/modules/mod_authn_default.so

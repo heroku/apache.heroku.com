@@ -1,0 +1,2 @@
+- - - [11/Feb/2011:18:28:46 -0800] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.84 Safari/534.13"
+- - - [11/Feb/2011:18:28:46 -0800] "GET /favicon.ico HTTP/1.1" 304 187 "-" "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.84 Safari/534.13"

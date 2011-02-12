@@ -1,0 +1,1 @@
+LoadModule reqtimeout_module ./apache${APACHE_ARCH}/lib/modules/mod_reqtimeout.so

@@ -1,0 +1,1 @@
+LoadModule auth_digest_module ./apache${APACHE_ARCH}/lib/modules/mod_auth_digest.so

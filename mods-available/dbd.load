@@ -1,0 +1,1 @@
+LoadModule dbd_module ./apache${APACHE_ARCH}/lib/modules/mod_dbd.so

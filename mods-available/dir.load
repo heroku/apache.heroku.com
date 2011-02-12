@@ -1,0 +1,1 @@
+LoadModule dir_module ./apache${APACHE_ARCH}/lib/modules/mod_dir.so

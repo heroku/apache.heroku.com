@@ -1,0 +1,1 @@
+LoadModule deflate_module ./apache${APACHE_ARCH}/lib/modules/mod_deflate.so

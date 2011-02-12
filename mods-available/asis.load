@@ -1,0 +1,1 @@
+LoadModule asis_module ./apache${APACHE_ARCH}/lib/modules/mod_asis.so
